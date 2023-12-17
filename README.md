@@ -26,5 +26,5 @@ This is a simple implementation of the Rock, Paper, Scissors game in Python. The
 ## Exiting the Game
 To exit the game, type 'q' when prompted for your choice
 ## License
-Replace `filename.py` with the actual name of your Python script containing the game code. You may want to create a `LICENSE` file with the text of the MIT License if you don't already have one. Feel free to customize the README as needed.
+Replace `game.py` with the actual name of your Python script containing the game code. You may want to create a `LICENSE` file with the text of the MIT License if you don't already have one. Feel free to customize the README as needed.
 
